@@ -553,7 +553,7 @@ body {
 	.main__header .session .session__date {
 		-ms-flex-preferred-size: 70%;
 		flex-basis: 70%;
-		width: 361px;
+		width: 400px;;
 	}
 	.scheme .legend {
 		border-top: 1px solid rgba(255, 255, 255, 0.5);
@@ -607,7 +607,7 @@ body {
 	}
 	.scheme .legend__boxes {
 		display: flex;
-		margin-left: 10px;
+		margin-left: 27px;
 	}
 	.price .button {
 		background: #fe8e05;
